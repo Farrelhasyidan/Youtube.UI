@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F459BB6A25C8FE6A00BE8904 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F459BB6925C8FE6A00BE8904 /* SettingView.swift */; };
 		F4FBF5B125C7A92000B224A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FBF5B025C7A92000B224A7 /* AppDelegate.swift */; };
 		F4FBF5B325C7A92000B224A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FBF5B225C7A92000B224A7 /* SceneDelegate.swift */; };
 		F4FBF5B525C7A92000B224A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FBF5B425C7A92000B224A7 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F459BB6925C8FE6A00BE8904 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		F4FBF5AD25C7A92000B224A7 /* Youtube.UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Youtube.UI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4FBF5B025C7A92000B224A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4FBF5B225C7A92000B224A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				F4FBF5BB25C7A92700B224A7 /* LaunchScreen.storyboard */,
 				F4FBF5BE25C7A92700B224A7 /* Info.plist */,
 				F4FBF5B825C7A92700B224A7 /* Preview Content */,
+				F459BB6925C8FE6A00BE8904 /* SettingView.swift */,
 			);
 			path = Youtube.UI;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4FBF5B125C7A92000B224A7 /* AppDelegate.swift in Sources */,
+				F459BB6A25C8FE6A00BE8904 /* SettingView.swift in Sources */,
 				F4FBF5B325C7A92000B224A7 /* SceneDelegate.swift in Sources */,
 				F4FBF5B525C7A92000B224A7 /* ContentView.swift in Sources */,
 			);
